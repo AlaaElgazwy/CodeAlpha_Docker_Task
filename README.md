@@ -40,4 +40,11 @@ docker stats codealpha-container --no-stream
 📸 Screenshots
 ### 1. docker logs 
 
-![docker logs](/home/alaa/Pictures/Screenshots/Screenshot from 2025-11-27 21-39-50.png)
+![docker logs](/images/Screenshot%20from%202025-11-28%2015-24-50.png)
+
+## 2. docker stats
+
+![docker stats](/images/Screenshot%20from%202025-11-28%2015-22-44.png)
+
+# 3. web server
+![web server](/images/Screenshot%20from%202025-11-28%2015-18-16.png)
